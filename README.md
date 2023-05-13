@@ -44,13 +44,13 @@
 | Simulacros Propuesta Alumno | SIM_\<PX>_\<LEGAJO>_2023.pdf | /practicos/trabajos_practicos/simulacros/ |
 | Simulacros Resolución Catedra | SIM_\<PX>_CATEDRA_2023.pdf | /practicos/trabajos_practicos/simulacros/ |
 | Plantillas | PLA_\<DESCRIPCIÓN>_2023.\<ext> | /practicos/plantillas/ |
-| Presentaciones de clase | PC_\<PX>_\<DESCRIPCIÓN>_2023.pdf | /conceptual/presentaciones_de_clase/ |
+| Presentaciones de clase | PC_\<PCX>_\<DESCRIPCIÓN>_2023.pdf | /conceptual/presentaciones_de_clase/ |
 | Bibliografía | BIBLIO_\<TEMA>_2023.pdf | /conceptual/bibliografia/ |
 | Guías Conceptuales | ISW_GT_\<GX>_2023.pdf | /conceptual/guias/ |
 | Trabajos Conceptuales Enunciados | TC_\<TX>_\<DESCRIPCIÓN>_ENUNCIADO_2023.pdf | /conceptual/trabajos_conceptuales/ |
 | Trabajos Conceptuales Resolución | TC_\<TX>_\<DESCRIPCIÓN>_RES_G12_2023.pdf | /conceptual/trabajos_conceptuales/ |
 | Resúmenes | RESUMEN_\<ALCANCE>_\<DD>.pdf | /conceptual/resumenes/ |
-| Notas de Clase | NC_\<DD_MM>_2023.jpg | /conceptual/notas_de_clase/ |
+| Notas de Clase | NC_\<DD_MM>_2023.pdf | /conceptual/notas_de_clase/ |
 
 ## Glosario
 
@@ -58,6 +58,7 @@
 | --- | --- |
 | \<GX> | Representa el número de guía del Ítem de configuración. |
 | \<PX> | Representa el número de trabajo practico del Ítem de configuración. |
+| \<PCX> | Representa el número de precentación de clase del Ítem de configuración. |
 | \<TX> | Representa el número de trabajo conceptual del Ítem de configuración. |
 | \<DD> | Representa el día de creación y subida del archivo al repositorio. |
 | \<DD_MM> | Representa el día y mes especifico de la clase a la cual pertenece el Item de Configuración ‘Notas de clase’. |
