@@ -50,7 +50,7 @@
 | Trabajos Conceptuales Enunciados | TC_\<TX>_\<DESCRIPCIÓN>_ENUNCIADO_2023.pdf | /conceptual/trabajos_conceptuales/ |
 | Trabajos Conceptuales Resolución | TC_\<TX>_\<DESCRIPCIÓN>_RES_G12_2023.pdf | /conceptual/trabajos_conceptuales/ |
 | Resúmenes | RESUMEN_\<ALCANCE>_\<DD>.pdf | /conceptual/resumenes/ |
-| Notas de Clase | NC_\<DD_MM>_2023.pdf | /conceptual/notas_de_clase/ |
+| Notas de Clase | NC_\<MM_DD>_2023.pdf | /conceptual/notas_de_clase/ |
 
 ## Glosario
 
@@ -61,7 +61,7 @@
 | \<PCX> | Representa el número de precentación de clase del Ítem de configuración. |
 | \<TX> | Representa el número de trabajo conceptual del Ítem de configuración. |
 | \<DD> | Representa el día de creación y subida del archivo al repositorio. |
-| \<DD_MM> | Representa el día y mes especifico de la clase a la cual pertenece el Item de Configuración ‘Notas de clase’. |
+| \<MM_DD> | Representa el día y mes especifico de la clase a la cual pertenece el Item de Configuración ‘Notas de clase’. |
 | \<DESCRIPCIÓN> | Frase breve y  representativa del contenido del Ítem de configuración. |
 | \<ext> | Utilizado  para representar que los Ítem de configuración cuya regla de nombrado incluyen este termino pueden tener diferentes extensiones y tipos de archivos. |
 
